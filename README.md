@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachin Bhatnagar</h1>
-<h3 align="center">Tremendously passionate about sharing my knowledge and have been at it for 20+ years now. I love the JavaScript ecosystem, for all its idiosyncrasies, it is fun!</h3>
+<h3 align="center">Tremendously passionate about sharing my knowledge and have been at it for 20+ years now. I love the JavaScript ecosystem, for all its idiosyncrasies, it is fun! I'm relatively new to the Python ecosystem and it is thoroughly enjoyable!</h3>
 
 - 🌱 I’m currently learning all about ***Generative AI Apps***
 
