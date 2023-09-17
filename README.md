@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sachin Bhatnagar</h1>
 <h3 align="center">Tremendously passionate about sharing my knowledge and have been at it for 20+ years now. I love the JavaScript ecosystem, for all its idiosyncrasies, it is fun!</h3>
 
-- 🌱 I’m currently learning **Elixir**
+- 🌱 I’m currently learning all about ***Generative AI Apps***
 
-- 💬 Ask me about **ECMAScript, Node.js, Express, React, Remix, Next.js, Vue.js, JSON, MSW, Jest, Vitest, jQuery (if you're ancient), Mongo DB, Mongoose ODM, MySQL, Babel, Parcel, Vite**
+- 💬 Ask me about **ECMAScript, Node.js, Express, React, Remix, Next.js, Vue.js, JSON, MSW, Jest, Vitest, jQuery (if you're ancient), Mongo DB, Mongoose ODM, MySQL, Babel, Parcel, Vite, Python, Langchain, OpenAI**
 
 - 📫 How to reach me **mailme@sachinbhatnagar.com**
 
